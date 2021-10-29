@@ -1,4 +1,5 @@
 # WaterWellsProject
+![Water pump](https://static.wikia.nocookie.net/dayz_gamepedia/images/2/29/WaterPump_Blue_1a.png/revision/latest/scale-to-width-down/1000?cb=20200902182842)
 
 ## Project Overview
 This project contains our steps to solving a data science predictive modeling classification problem, which is the Tanzanian water well access limitations. Our goal was to create a highly accurate predictive model to determine which water wells in Tanzania require repairs.
