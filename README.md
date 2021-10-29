@@ -26,6 +26,7 @@ Category Catboost Model predict an accuracy score of 80% on the holdout data. Th
 ## Repository Navigation
 - Data
 - Notebook
+- WaterWellsProjectNotebook
 - Presentation
 - Readme
 
