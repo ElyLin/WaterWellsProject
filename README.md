@@ -15,7 +15,7 @@ The methodology we used for building the model are:
 - CatBoost Classifier
 
 ## Project Result
-Category Catboost Model predict an accuracy score of 80% on the holdout data.
+Category Catboost Model predict an accuracy score of 80% on the holdout data. The model can be use to locate water wells that need repairs and determine the high risk area.
 
 ## Next Steps
 - Explore features and trends
