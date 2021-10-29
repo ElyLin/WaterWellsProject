@@ -2,10 +2,10 @@
 ![Water pump](https://static.wikia.nocookie.net/dayz_gamepedia/images/2/29/WaterPump_Blue_1a.png/revision/latest/scale-to-width-down/1000?cb=20200902182842)
 
 ## Project Overview
-This project contains our steps to solving a data science predictive modeling classification problem, which is the Tanzanian water well access limitations. Our goal was to create a highly accurate predictive model to determine which water wells in Tanzania require repairs.
+This project contains our steps to solving a data science predictive classification problem, which is the Tanzanian water well access limitations. Our main goal was to create a highly accurate predictive model to determine which water wells in Tanzania require repairs.
 
 ## Data Overview
-This is a competition from Driven Data, Pump it up: Data Mining the water table. We obtained our data set from the Driven Data competition, originally sourced from the Tanzanian Ministry of Water and supplied by Taarifa. Our objective is to build a model that predict if the pump is functional or non functional or functional need repair. The data consist of 59,400 rows and 30 categorical columns and 10 numerical columns. we will be working with most of the data given and drop the redundant information.
+We obtained our data set from the Driven Data competition, originally sourced from the Tanzanian Ministry of Water and supplied by Taarifa. Our objective is to build a model that predict if the pump is functional or non functional or functional need repair. The data consist of 59,400 rows, 30 categorical columns and 10 numerical columns. we will be working with most of the data given and drop the redundant information.
 
 ## Methodology
 The methodology we used for building the model are:
