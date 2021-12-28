@@ -30,7 +30,7 @@ Category Catboost Model predict an accuracy score of 80% on the holdout data. Th
 - Presentation
 - Readme
 
-## AUthors
+## Authors
 - Ely Lin
 - Samantha Nasti
 - Titilayo Amuwo
